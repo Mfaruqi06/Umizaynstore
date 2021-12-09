@@ -1,0 +1,67 @@
+body {
+  background-color: #c68c74;
+}
+
+.gambar1 {
+  margin-right: 25px;
+  margin-left: 10px;
+}
+
+#carouselExampleFade {
+  margin-bottom: 100;
+}
+
+#about {
+  padding: 5rem;
+}
+
+.carousel-item {
+  margin: 100;
+}
+
+/* #katalog {
+  padding: 2rem;
+} */
+
+#video {
+  /* padding-top: 3rem; */
+  padding-bottom: 4rem;
+}
+
+#testimony {
+  padding: 3rem;
+}
+
+/* .container {
+  border: 3rem;
+} */
+
+#testimony {
+  background-color: #411208;
+}
+
+#katalog {
+  background-color: #411208;
+}
+
+#saran {
+  padding: 10rem;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+footer {
+  background-color: #411208;
+  justify-content: center;
+}
+
+#footers {
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  /* padding: 5rem; */
+}
+.footer-social {
+  justify-content: center;
+}
+
